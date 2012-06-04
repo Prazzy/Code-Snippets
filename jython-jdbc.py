@@ -27,4 +27,6 @@ if __name__ == "__main__":
     print('Hello Jython')
     dbConn = getConnection(JDBC_URL, JDBC_DRIVER)
     print dbConn
+    
+    print "testing"
 
